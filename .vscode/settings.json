@@ -1,0 +1,10 @@
+{
+  "terminal.integrated.profiles.windows": {
+    "cmd-com-chcp": {
+      "path": "cmd.exe",
+      "args": ["/K", "chcp 1252"]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "cmd-com-chcp",
+  "terminal.integrated.fontFamily": "Cascadia Mono"
+}
