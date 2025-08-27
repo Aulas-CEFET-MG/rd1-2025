@@ -10,6 +10,7 @@ void imprimeVetor_V1(int vetor[], int tamanho){
     for(int i = 0; i<tamanho; i++)
         printf("%d ", vetor[i]);
 }
+
 //Faça uma função para retornar o maior valor de um vetor 
 //de N posições
 
